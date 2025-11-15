@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about web development and building 
 
 ## 🗂️ Featured Projects
 
-- [**Global Warming Dashboard**]([https://github.com/cla91/beet-heart](https://github.com/cla91/global-warming-dashboard))  
+- [**Global Warming Dashboard**](https://github.com/cla91/global-warming-dashboard)  
   SPA to help users explore, understand and visualize global-warming indicators.
 
 - [**beet-heart**](https://github.com/cla91/beet-heart)  
